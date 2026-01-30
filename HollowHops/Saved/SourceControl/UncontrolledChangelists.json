@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHopsUpdate/HollowHops/Content/MainCharacter/BP_MainCharacter.uasset",
+				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHopsUpdate/HollowHops/Content/Effects/E_EffectType.uasset",
+				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHopsUpdate/HollowHops/Content/Effects/F_Effect.uasset",
+				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHopsUpdate/HollowHops/Content/Effects/DT_Effects.uasset",
+				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHopsUpdate/HollowHops/Content/Effects/BP_PlayerEffects.uasset",
+				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHopsUpdate/HollowHops/Content/Effects/BP_PlayerStats.uasset",
 				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHops/Content/Levels/l_TestLevel.umap",
 				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHops/Content/MainCharacter/BP_MainCharacter.uasset",
 				"C:/Users/alex2/Desktop/Hollow Hops (Update)/HollowHops/Content/Misc/GMB_Game.uasset",
